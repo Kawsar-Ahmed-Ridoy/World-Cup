@@ -154,18 +154,12 @@ button.blog-btn {
 
 .blog-post-details {
   padding: 30px;
-}
-
-.blog-post-details input {
-  padding: 5px 20px;
-  font-size: 16px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-  border: 1px solid;
+  text-align: center;
 }
 
 .blog-post-details h3 {
   margin: 15px 0px;
+  text-align: center;
 }
 
 .blog-post-details i,
